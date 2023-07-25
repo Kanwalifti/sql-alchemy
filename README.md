@@ -40,7 +40,7 @@ Another query was created to retrieve the last 12 months of temperature observat
 
 To visualize the temperature observation data, a histogram was plotted with 12 bins, presenting a clear representation of the temperature distribution over the past 12 months for the most active station.
 
-![]()
+![Station_Analysis](https://github.com/Kanwalifti/sql-alchemy/blob/main/StationTemps.png)
 
 # Step 2 - Climate App:
 
