@@ -1,4 +1,4 @@
-# sql-alchemy
+# SQL-ALCHEMY
 
 # Introduction:
 
@@ -28,7 +28,7 @@ The query results were then loaded into a Pandas DataFrame, and the index was se
 
 To visualize the results, the DataFrame plot method was used, generating a plot that illustrates the precipitation trends over the past 12 months.
 
-![]()
+![Precipitation](https://github.com/Kanwalifti/sql-alchemy/blob/main/PrecipitationTemps.png)
 
 # Station Analysis:
 
